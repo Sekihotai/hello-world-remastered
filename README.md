@@ -8,7 +8,7 @@ New to GitHub? Drop by here and learn the basics!
 I have a challenge for you!
 
 1. Fork this repository.
-2. Add your own name and a link your profile to names.txt in your forked version of this repository.
+2. Add your own name and a link your profile to names.txt and create an html file named after you in your forked version of this repository.
 3. Commit your changes.
 4. Create a pull request.
 5. I will approve your pull request and merge it to the master branch.
